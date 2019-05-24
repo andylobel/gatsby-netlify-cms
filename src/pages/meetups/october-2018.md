@@ -1,6 +1,6 @@
 ---
 templateKey: meetup
-title: October 2018
+title: Occtober 2018
 date: 2018-10-09T23:00:00.000Z
 presenters:
   - image: /img/michael-dam-258165-unsplash.jpg
